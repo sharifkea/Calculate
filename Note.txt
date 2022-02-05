@@ -1,0 +1,7 @@
+
+git init
+git add .
+git status
+git commit -m "make it better"
+git remote add origin https://github.com/sharifkea/Calculate.git
+git push -u origin master
